@@ -1,0 +1,15 @@
+1] Espressif ESP32-DevKitC-32UE Development board × 1
+2] 2.54mm 1x40 Pin Female Single Row Header Strip × 3
+3] MT76813DBI ESP8266 Serial WIFI wireless Gain Antenna × 1
+4] 2.4GHz NRF24L01+PA+LNA SMA Wireless Transceiver Antenna × 1
+5] EBYTE E07-M1101D-SMA Ebyte 10dBm 530m CC1101 RF 433MHz FSK Module × 1
+6] 2.8 inch SPI Touch Screen Module TFT Interface 240*320 × 1
+7] NEO-6M GPS Module with EPROM - Normal Quality × 1
+8] Infrared IR Wireless Remote Control Module Kit for Arduino × 1
+9] 2-Pin Flat Dial switch 2.54mm × 1
+10] Mini Micro SD Card Reader Module × 1
+11] 5 x 7 cm Universal PCB Prototype Board Single-Sided 2.54mm Hole Pitch × 2
+12] 10uF 63V Electrolytic Capacitor through hole × 2
+13] 10k Ohm 0.25W Metal Film Resistor × 2
+14] 100nf capacitor x2
+ 
