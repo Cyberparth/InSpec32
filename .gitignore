@@ -1,0 +1,29 @@
+# Ignore build and output folders
+/build/
+/dist/
+*.bin
+*.hex
+*.elf
+
+# Ignore OS-specific junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Ignore temporary files
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore archive files (optional - remove if you want to track ZIPs)
+*.zip
+*.tar.gz
+*.7z
+
